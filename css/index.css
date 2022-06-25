@@ -1,5 +1,11 @@
 /* font-family: 'Roboto', sans-serif; */
 
 *{margin: 0px;padding: 0px;font-family:'arial','sans-serif',monospace;}
-
+h1{
+  width: 100%;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
 p{font-family: 'Roboto Mono', monospace;font-size:25px;}
