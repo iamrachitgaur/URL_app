@@ -1,2 +1,2 @@
 
-console.log("hello")
+document.getElementById("all_links").innerHTML="worked";
