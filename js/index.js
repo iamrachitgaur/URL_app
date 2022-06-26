@@ -1,6 +1,6 @@
 
 const params = new URLSearchParams(window.location.search)
-const URL = params.get('URL')
+const URL = params.get('url')
 const gd = params.get('gd')
 
 const para = document.createElement('p');
